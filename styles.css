@@ -4,6 +4,8 @@ body {
     justify-content: center;
     align-items: center;
     background-color: black;
+    overflow-y: hidden; /* Hide scrollbars */
+    overflow-x: hidden; /* Hide horizontal scrollbar */
 }
 
 #clock {
